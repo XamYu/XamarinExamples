@@ -1,0 +1,1 @@
+C:\Users\430006011\source\repos\XamarinExamples\PlatformVisuals\PlatformVisuals\PlatformVisuals.UWP\PlatformVisuals.UWP.csproj;x86
