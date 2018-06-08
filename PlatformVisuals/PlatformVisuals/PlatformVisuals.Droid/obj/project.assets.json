@@ -658,34 +658,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\430006011\\.nuget\\packages\\": {}
+    "/Users/gozhack/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.Droid\\PlatformVisuals.Droid.csproj",
+      "projectUniqueName": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals.Droid/PlatformVisuals.Droid.csproj",
       "projectName": "PlatformVisuals.Droid",
-      "projectPath": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.Droid\\PlatformVisuals.Droid.csproj",
-      "packagesPath": "C:\\Users\\430006011\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.Droid\\obj\\",
+      "projectPath": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals.Droid/PlatformVisuals.Droid.csproj",
+      "packagesPath": "/Users/gozhack/.nuget/packages/",
+      "outputPath": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals.Droid/obj",
       "projectStyle": "PackageReference",
-      "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\430006011\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/gozhack/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.csproj": {
-              "projectPath": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.csproj"
+            "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals/PlatformVisuals.csproj": {
+              "projectPath": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals/PlatformVisuals.csproj"
             }
           }
         }
@@ -696,27 +694,27 @@
         "dependencies": {
           "Xamarin.Android.Support.Design": {
             "target": "Package",
-            "version": "[25.4.0.2, )"
+            "version": "25.4.0.2"
           },
           "Xamarin.Android.Support.v4": {
             "target": "Package",
-            "version": "[25.4.0.2, )"
+            "version": "25.4.0.2"
           },
           "Xamarin.Android.Support.v7.AppCompat": {
             "target": "Package",
-            "version": "[25.4.0.2, )"
+            "version": "25.4.0.2"
           },
           "Xamarin.Android.Support.v7.CardView": {
             "target": "Package",
-            "version": "[25.4.0.2, )"
+            "version": "25.4.0.2"
           },
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
-            "version": "[25.4.0.2, )"
+            "version": "25.4.0.2"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.446417, )"
+            "version": "3.0.0.446417"
           }
         }
       }

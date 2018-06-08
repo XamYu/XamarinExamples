@@ -332,31 +332,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\430006011\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/gozhack/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.csproj",
+      "projectUniqueName": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals/PlatformVisuals.csproj",
       "projectName": "PlatformVisuals",
-      "projectPath": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals.csproj",
-      "packagesPath": "C:\\Users\\430006011\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\430006011\\source\\repos\\XamarinExamples\\PlatformVisuals\\PlatformVisuals\\PlatformVisuals\\obj\\",
+      "projectPath": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals/PlatformVisuals.csproj",
+      "packagesPath": "/Users/gozhack/.nuget/packages/",
+      "outputPath": "/Users/gozhack/Projects/XamYu/XamYu/XamarinExamples.git/PlatformVisuals/PlatformVisuals/PlatformVisuals/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\430006011\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/gozhack/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
@@ -375,12 +374,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.1, )",
+            "version": "2.0.1",
             "autoReferenced": true
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.446417, )"
+            "version": "3.0.0.446417"
           }
         },
         "imports": [

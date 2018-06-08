@@ -90,6 +90,7 @@
   <ItemGroup>
     <ProjectReference Include="..\PlatformVisuals\PlatformVisuals.csproj">
       <Name>PlatformVisuals</Name>
+      <Project>{6D20A88C-A4A2-487A-BB1A-614BF9F11BD3}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
