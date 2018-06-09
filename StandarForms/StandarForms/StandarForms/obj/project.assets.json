@@ -345,23 +345,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\secto\\.nuget\\packages\\": {},
+    "C:\\Users\\SISTEMAS20\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj",
+      "projectUniqueName": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj",
       "projectName": "StandarForms",
-      "projectPath": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj",
-      "packagesPath": "C:\\Users\\secto\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\obj\\",
+      "projectPath": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj",
+      "packagesPath": "C:\\Users\\SISTEMAS20\\.nuget\\packages\\",
+      "outputPath": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\secto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SISTEMAS20\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

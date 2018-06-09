@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LuisMario",
+    "\\LuisMario\\StandarXamarin",
+    "\\LuisMario\\StandarXamarin\\StandarXamarin",
+    "\\LuisMario\\StandarXamarin\\StandarXamarin\\StandarXamarin"
   ],
-  "SelectedNode": "\\LuisMario",
+  "SelectedNode": "\\LuisMario\\StandarXamarin\\StandarXamarin\\StandarXamarin\\MyPage.cs",
   "PreviewInSolutionExplorer": false
 }

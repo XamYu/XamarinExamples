@@ -718,20 +718,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\secto\\.nuget\\packages\\": {}
+    "C:\\Users\\SISTEMAS20\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms.iOS\\StandarForms.iOS.csproj",
+      "projectUniqueName": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms.iOS\\StandarForms.iOS.csproj",
       "projectName": "StandarForms.iOS",
-      "projectPath": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms.iOS\\StandarForms.iOS.csproj",
-      "packagesPath": "C:\\Users\\secto\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms.iOS\\obj\\",
+      "projectPath": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms.iOS\\StandarForms.iOS.csproj",
+      "packagesPath": "C:\\Users\\SISTEMAS20\\.nuget\\packages\\",
+      "outputPath": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\secto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SISTEMAS20\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -744,8 +744,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj": {
-              "projectPath": "C:\\projects\\XamYu\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj"
+            "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj": {
+              "projectPath": "C:\\REPOSITORIOS\\XamarinExamples\\StandarForms\\StandarForms\\StandarForms\\StandarForms.csproj"
             }
           }
         }
