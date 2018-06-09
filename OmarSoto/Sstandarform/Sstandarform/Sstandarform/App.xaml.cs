@@ -11,7 +11,7 @@ namespace Sstandarform
 		{
 			InitializeComponent();
 
-            MainPage = new MyPage();
+            MainPage = new MyPage();////////////
 		}
 
 		protected override void OnStart ()
