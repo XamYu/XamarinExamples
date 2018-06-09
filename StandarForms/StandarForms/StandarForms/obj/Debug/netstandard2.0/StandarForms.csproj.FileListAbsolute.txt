@@ -1,0 +1,9 @@
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\bin\Debug\netstandard2.0\StandarForms.deps.json
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\bin\Debug\netstandard2.0\StandarForms.dll
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\bin\Debug\netstandard2.0\StandarForms.pdb
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\obj\Debug\netstandard2.0\StandarForms.csprojAssemblyReference.cache
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\obj\Debug\netstandard2.0\StandarForms.csproj.CoreCompileInputs.cache
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\obj\Debug\netstandard2.0\StandarForms.AssemblyInfoInputs.cache
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\obj\Debug\netstandard2.0\StandarForms.AssemblyInfo.cs
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\obj\Debug\netstandard2.0\StandarForms.dll
+C:\projects\XamYu\XamarinExamples\StandarForms\StandarForms\StandarForms\obj\Debug\netstandard2.0\StandarForms.pdb
