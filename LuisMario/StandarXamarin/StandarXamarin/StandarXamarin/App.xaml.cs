@@ -11,7 +11,7 @@ namespace StandarXamarin
 		{
 			InitializeComponent();
 
-			MainPage = new MyPage();
+			MainPage = new MyPageXamel();
 		}
 
 		protected override void OnStart ()

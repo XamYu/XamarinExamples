@@ -11,6 +11,29 @@ namespace StandarXamarin
         public MyPage()
         {
 
+            Label Nombre = new Label {
+
+                Text = "Luis Mario",
+                FontSize = 40,
+                FontAttributes = FontAttributes.Bold,
+                HorizontalOptions = LayoutOptions.Center
+            };
+
+            var entryNombre = new Entry {
+                Placeholder = "Escribe aqui tu nombre",
+                Text = "Luis Mario"
+            };
+
+            var actualizarNombre = new Button
+            {
+                Text = "Actualiza el nombre",
+                Font = Font.SystemFontOfSize(NamedSize.Large),
+                BorderWidth = 1,
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.CenterAndExpand
+
+            };
+
             var productos = new[] {
                 "Producto1",
                 "Producto2",
@@ -23,8 +46,16 @@ namespace StandarXamarin
             var listaProductos = new ListView();
             listaProductos.ItemsSource = productos;
 
+            Content = new StackLayout {
 
-            Content = listaProductos;
+                Children = {
+                    Nombre,
+                    entryNombre,
+                    actualizarNombre,
+                    listaProductos
+                }
+
+            };
 
         }
 
