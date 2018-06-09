@@ -1,0 +1,9 @@
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\bin\Debug\netstandard2.0\StandarXamarin.deps.json
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\bin\Debug\netstandard2.0\StandarXamarin.dll
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\bin\Debug\netstandard2.0\StandarXamarin.pdb
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\obj\Debug\netstandard2.0\StandarXamarin.csprojAssemblyReference.cache
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\obj\Debug\netstandard2.0\StandarXamarin.csproj.CoreCompileInputs.cache
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\obj\Debug\netstandard2.0\StandarXamarin.AssemblyInfoInputs.cache
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\obj\Debug\netstandard2.0\StandarXamarin.AssemblyInfo.cs
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\obj\Debug\netstandard2.0\StandarXamarin.dll
+C:\projects\Omar\XamarinExamples\OFZ\StandarXamarin\StandarXamarin\StandarXamarin\obj\Debug\netstandard2.0\StandarXamarin.pdb
