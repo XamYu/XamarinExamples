@@ -1,0 +1,9 @@
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\bin\Debug\netstandard2.0\Sstandarform.deps.json
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\bin\Debug\netstandard2.0\Sstandarform.dll
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\bin\Debug\netstandard2.0\Sstandarform.pdb
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\obj\Debug\netstandard2.0\Sstandarform.csprojAssemblyReference.cache
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\obj\Debug\netstandard2.0\Sstandarform.csproj.CoreCompileInputs.cache
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\obj\Debug\netstandard2.0\Sstandarform.AssemblyInfoInputs.cache
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\obj\Debug\netstandard2.0\Sstandarform.AssemblyInfo.cs
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\obj\Debug\netstandard2.0\Sstandarform.dll
+C:\Xamarin\XamarinExamples\OmarSoto\Sstandarform\Sstandarform\Sstandarform\obj\Debug\netstandard2.0\Sstandarform.pdb
