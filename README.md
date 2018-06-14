@@ -13,3 +13,6 @@ https://docs.microsoft.com/en-us/xamarin/tools/live-player/troubleshooting#manua
 # Modificar el archivo "PlayerDeviceList.xml" en la ruta: 
   %userprofile%\AppData\Roaming
 
+
+# Referencia video Git Xamarin VS 2017
+https://youtu.be/jrLKh-OCE_k
