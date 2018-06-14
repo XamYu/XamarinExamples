@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StandarXamarin.MyPageXamel">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label 
+                Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry 
+                Placeholder="Vuelva a escribir su nombre" 
+                Text="Daniela">
+            </Entry>
+            <Button 
+                Text="Actualizar nombre" 
+                FontSize="Medium" 
+                FontAttributes="Bold" 
+                HorizontalOptions="Center">
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
