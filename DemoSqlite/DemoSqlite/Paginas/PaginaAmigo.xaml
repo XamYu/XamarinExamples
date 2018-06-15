@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DemoSqlite.Paginas.PaginaAmigo">
+    <ContentPage.Content>
+        
+        <StackLayout Spacing="20" Padding="20">
+            <Entry x:Name="txtNombre" Placeholder="Nombre"/>
+            <Picker x:Name="pckSexo" Title="Sexo">
+                <Picker.Items>
+                    <x:String>
+                        Hombre
+                    </x:String>
+                    <x:String>
+                        Mujer
+                    </x:String>
+                </Picker.Items>
+            </Picker>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Cumpleaños" 
+                       VerticalOptions="CenterAndExpand"/>
+                <DatePicker x:Name="dppCumple"
+                            Format="dd \de MMMM"
+                            VerticalOptions="CenterAndExpand"
+                            HeightRequest="50"/>
+            </StackLayout>
+
+            <Entry x:Name="txtCorreo" Placeholder="Correo"/>
+            <Entry x:Name="txtTelefono" Placeholder="Telefono"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Es mejor amigo?" VerticalOptions="CenterAndExpand"/>
+                <Switch x:Name="swtMejorAmigo" VerticalOptions="CenterAndExpand"/>
+            </StackLayout>
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+
+    <!-- indicamos content del toolbar superior  -->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="btnGuardar" Text="Guardar" Priority="0"
+                     Clicked="btnGuardar_Click" Order="Primary" Icon="guardar.png"/>
+        <ToolbarItem x:Name="btnEliminar" Text="Eliminar" Priority="1"
+                     Clicked="btnEliminar_Click" Order="Primary" Icon="eliminar.png"/>
+    </ContentPage.ToolbarItems>
+
+    
+</ContentPage>

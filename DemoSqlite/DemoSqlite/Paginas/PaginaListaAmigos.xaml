@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="DemoSqlite.Paginas.PaginaListaAmigos">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Label Text="Amigos" FontSize="40" HorizontalOptions="Center"/>
+            <ListView x:Name="lsvAmigos" ItemSelected="lsvAmigos_Selected" RowHeight="50">
+                <ListView.ItemTemplate>
+                    
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Nombre}"
+                                       TextColor="Blue" FontSize="16"/>
+                                <Switch IsToggled="{Binding EsMejorAmigo}"
+                                        HorizontalOptions="EndAndExpand"/>
+                            </StackLayout>
+
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Telefono}" HorizontalOptions="StartAndExpand" 
+                                       TextColor="Green" FontSize="12"/>
+                                <Label Text="{Binding Correo}" HorizontalOptions="EndAndExpand"
+                                       TextColor="Green" FontSize="12"/>
+                                    
+                            </StackLayout>
+                            
+                        </ViewCell>
+                    </DataTemplate>
+                    
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+
+    <!-- Creamos toolbar -->
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="btnNuevo" Text="Nuevo" 
+                     Priority="0" Clicked="btnNuevo_Click"
+                     Order="Primary" Icon="agregar.png"/>
+    </ContentPage.ToolbarItems>
+
+    
+</ContentPage>
