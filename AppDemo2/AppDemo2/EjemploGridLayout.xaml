@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="AppDemo2.EjemploGridLayout">
+    <ContentPage.Content>
+
+        <!-- Layout tipo grilla definiciendo columnas y filas-->
+        <Grid>
+            <Grid.RowDefinitions>
+
+<!-- Se puede especificar de tamaño o dejar en * para indicar que seran del mismo tamaño -->
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="1" Grid.Row="1" Text="Hola Mundo"></Button>
+            
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>

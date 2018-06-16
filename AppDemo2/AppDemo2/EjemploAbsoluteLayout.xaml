@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="AppDemo2.EjemploAbsoluteLayout">
+    <ContentPage.Content>
+
+        <AbsoluteLayout>
+            <!-- Filtro All para ocupar todas las variables posibles en el dispositivo  -->
+            <BoxView Color="Blue"
+                     AbsoluteLayout.LayoutFlags="All"
+                     AbsoluteLayout.LayoutBounds="0,0,0.5,0.5">
+                    <!--Propiedades de posicionamiento del 0 al .1 -->
+                    <!--posicion 0,0 y el porcentaje 0.5 y 0.5 porcentaje del BoxView que ocupa la pantalla(50% de alto y ancho -->
+            </BoxView>
+
+            <BoxView Color="Red"
+                     AbsoluteLayout.LayoutFlags="All"
+                     AbsoluteLayout.LayoutBounds="1,0,0.5,0.5">
+            </BoxView>
+
+        </AbsoluteLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="AppDemo2.EjemploScrollLayout">
+    <ContentPage.Content>
+        <!--Permitimos el scroll indicandolo como layout contenedor de todos los elementos-->
+        <ScrollView>
+            <!--indicamos el stacklayout para conjunto de varios elementos-->
+            <StackLayout Padding="30" Spacing="0">
+                <StackLayout>
+                    <Label Text="Nombre" FontSize="Medium" />
+                    <Entry x:Name="entryNombre">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Edad" FontSize="Medium" />
+                    <Entry x:Name="entryEdad">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Direccion" FontSize="Medium" />
+                    <Entry x:Name="entryDireccion">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Telefono" FontSize="Medium" />
+                    <Entry x:Name="entryTelefono">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Nacionalidad" FontSize="Medium" />
+                    <Entry x:Name="entryNacionalidad">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Estado Civil" FontSize="Medium" />
+                    <Entry x:Name="entryEdoCivil">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Sexo" FontSize="Medium" />
+                    <Entry x:Name="entrySexo">
+                    </Entry>
+                </StackLayout>
+                <StackLayout Padding="30" Spacing="0">
+                    <Label Text="Pasaporte" FontSize="Medium" />
+                    <Entry x:Name="entryPasaporte">
+                    </Entry>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

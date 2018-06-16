@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="3.0.0.482510" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="EjemploScrollLayout.xaml.cs">
+      <DependentUpon>EjemploScrollLayout.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="EjemploAbsoluteLayout.xaml.cs">
+      <DependentUpon>EjemploAbsoluteLayout.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="EjemploGridLayout.xaml.cs">
+      <DependentUpon>EjemploGridLayout.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>
